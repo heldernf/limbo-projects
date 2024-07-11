@@ -5,7 +5,7 @@
 - Manter projetos antigos ou não finalizados.
 
 # Projetos 📖
-Link de acesso: [cassino (view)](https://heldernf.github.io/limbo-projects/cassino)
+Link de acesso: [cassino (view)](https://heldernf.github.io/limbo-projects/cassino/home.html)
 
 Link de acesso: [go-buy (view)](https://heldernf.github.io/limbo-projects/go-buy)
 
